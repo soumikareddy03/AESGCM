@@ -54,11 +54,11 @@ The individual modules and the integrated AES-GCM design were functionally verif
 
 ### AES-CTR
 <!-- Add the AES-CTR simulation waveform below -->
-![AES-CTR Simulation](images/aesctr_simulation.png)
+![AES-CTR Simulation](simulation/aesctr_opt.png)
 
 ### GHASH Authentication
 <!-- Add the GHASH simulation waveform below -->
-![GHASH Simulation](images/ghash_simulation.png)
+![GHASH Simulation](simulation/ghash_out.png)
 
 ### AES-GCM: Original vs. Optimized Design
 <!-- Add the top-level simulation waveforms below -->
