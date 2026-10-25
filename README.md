@@ -50,7 +50,7 @@ The individual modules and the integrated AES-GCM design were functionally verif
 
 ### AES-256 Encryption
 <!-- Add the AES-256 simulation waveform below -->
-![AES-256 Encryption Simulation](images/aes256_simulation.png)
+![AES-256 Encryption Simulation](simulation/opt_aes256.png)
 
 ### AES-CTR
 <!-- Add the AES-CTR simulation waveform below -->
