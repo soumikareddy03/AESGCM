@@ -62,11 +62,10 @@ The individual modules and the integrated AES-GCM design were functionally verif
 
 ### AES-GCM: Original vs. Optimized Design
 <!-- Add the top-level simulation waveforms below -->
-![Original AES-GCM Simulation](images/aesgcm_original_simulation.png)
+![Original AES-GCM Simulation](simulation/aesgcm_2nddesign.png)
 
-![Optimized AES-GCM Simulation](images/aesgcm_optimized_simulation.png)
+![Optimized AES-GCM Simulation](simulation/opt_aesgcm.png)
 
-*The waveform images above are placeholders for the corresponding simulation screenshots. Replace them with your actual screenshots using the same filenames, or update the paths to match your repository.*
 
 ## Performance Comparison
 
